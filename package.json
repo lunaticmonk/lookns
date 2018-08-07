@@ -1,13 +1,21 @@
 {
-  "name": "lookup",
+  "name": "lookns",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Sweet little tool to lookup IPs from host and vice versa.",
+  "repository": "https://github.com/lunaticmonk/lookup",
+  "main": "lookup.js",
+  "bin": "lookup.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "dns",
+    "lookup",
+    "reverse-dns",
+    "hostnames",
+    "Ip"
+  ],
+  "author": "Sumedh Nimkarde (https://github.com/lunaticmonk)",
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.1"
