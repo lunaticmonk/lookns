@@ -2,7 +2,7 @@
   "name": "lookns",
   "version": "1.0.0",
   "description": "Sweet little tool to lookup IPs from host and vice versa.",
-  "repository": "https://github.com/lunaticmonk/lookup",
+  "repository": "https://github.com/lunaticmonk/lookns",
   "main": "lookup.js",
   "bin": "lookup.js",
   "scripts": {
